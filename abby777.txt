@@ -1,10 +1,184 @@
-
-Starting Nmap 7.40 ( https://nmap.org ) at 2018-08-09 16:09 UTC
-Nmap scan report for instance-1abby.c.plugprofitsite-78.internal (10.142.0.2)
-Host is up (0.000053s latency).
-Not shown: 998 closed ports
-PORT   STATE SERVICE
-22/tcp open  ssh
-80/tcp open  http
-
-Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+    1  apt-get update && apt-get install openvas
+    2  nmap 192.168.1.153
+    3  apt-get install nmap
+    4  sudo apt-get update upgrade
+    5  sudo apt-get upgrade
+    6  apt-get install nmap
+    7  apt-get installnmap
+    8  apt-get nmap
+    9  sudo apt-get update
+   10  apt-get install nmap
+   11  y
+   12  install nmap
+   13  install --help
+   14  nmap 192.168.1.153
+   15  history
+   16  nmap setup
+   17  nmap install
+   18  nmap --help
+   19  sudo bash
+   20  sudo apt-get install nmap 
+   21  nmap --help
+   22  history
+   23  nmap 10.142.0.2
+   24  nmap 10.128.0.2
+   25  nmap empowerentrepreneurs.net
+   26  nmap 192.186.244.231
+   27  sudo nmap -O 192.186.244.231
+   28  history
+   29  sudo nmap 192.186.244.231
+   30  nmap 192.186.244.231
+   31  nmap 192.186.244.231 192.168.1.153 10.142.0.2 10.128.0.2
+   32  nmap 192.186.244.*
+   33  history
+   34  history
+   35  date
+   36  time
+   37  nmap -sS -PO -sV -O 192.186.244.231
+   38  nmap -sS -sV -O 192.186.244.231
+   39  nmap -sA 192.186.244.231
+   40  nmap 192.186.244.231
+   41  nmap -p 192.186.244.231
+   42  nmap -p 80 192.186.244.231
+   43  sudo apt-get install openvas
+   44  start openvas
+   45  openvas start
+   46  openvas
+   47  setup openvas
+   48  history
+   49  sudo apt-get setup openvas
+   50  setup openvas
+   51  openvas-setup
+   52  > output.txt
+   53  history > history_for_print.txt
+   54  nmap 192.186.244.231 >> results.txt
+   55  cd
+   56  pwd
+   57  > home/abbysaliu/output.txt
+   58  pwd
+   59  pwd >> output2.txt
+   60  ls -ls
+   61  history
+   62  ls
+   63  nmap 10.142.0.2 > abby.txt
+   64  nmap 10.142.0.2
+   65  cat abby.txt 
+   66  nmap 10.128.0.2 > abby3.txt
+   67  cat abby3.txt
+   68  ls
+   69  ls
+   70  cat output.txt
+   71  cat output2.txt
+   72  nano output2.txt 
+   73  history
+   74  history > history.txt
+   75  cat history.txt
+   76  ls
+   77  cat result.txt
+   78  history
+   79  ls
+   80  cat results.xt
+   81  cat results.txt
+   82  cat results.xt
+   83  openvas
+   84  help
+   85  openvas start
+   86  start openvas
+   87  git init
+   88  cd
+   89  cd desktop
+   90  cd abbysaliu
+   91  cd abbysaliu/home
+   92  cd abbysaliu/home/desktop
+   93  cd home/desktop
+   94  git
+   95  ls
+   96  gcloud init && git config --global credential.https://source.developers.google.com.helper gcloud.sh
+   97  git status
+   98  git add .
+   99  git add
+  100  cat results.txt
+  101  git status
+  102  git add
+  103  git add .
+  104  git rm --cached results.txt
+  105  git status
+  106  git add results.txt
+  107  git status
+  108  git commit
+  109  cd abby_scan
+  110  cd Abby_scan
+  111  git remote add google   https://source.developers.google.com/p/plugprofitsite-78/r/Abby_scan
+  112  git status
+  113  git commit .
+  114  git config --global user.email abbysaliu@gmail.com
+  115  git commit . 
+  116  git push
+  117  git remote add results.txt
+  118  git push .
+  119  git push --set-upstream . master
+  120  ls
+  121  cd / Abby_scan.txt
+  122  cd Abby_scan.txt
+  123  https://source.developers.google.com/p/plugprofitsite-78/r/Abby_scan
+  124  apt-get install git
+  125  sudo apt-get install git
+  126  git --version
+  127  git status
+  128  git init
+  129  sudo apt install git-all
+  130  git config --global user.name "Abby Saliu"
+  131  git config --global user.email abbysaliu@gmail.com
+  132  git help config
+  133  git clone https://github.com/abexlincon/abby_project.git
+  134  ls
+  135  git status
+  136  git add abby_project
+  137  git status
+  138  git add .bash_history
+  139  git status
+  140  git add .gitconfig
+  141  git status
+  142  ls
+  143  nmap 10.142.0.2 | tee abby_project
+  144  git status
+  145  nmap 10.142.0.2 | tee abby.txt
+  146  git status
+  147  git add abby.txt
+  148  git status
+  149  cd abby_project
+  150  ls
+  151  nmap 10.142.0.2 | tee abby777.txt
+  152  ls
+  153  git status
+  154  git add abby777.txt
+  155  git status
+  156  ls
+  157  cd..
+  158  cd--
+  159  cd ..
+  160  cd abby_project
+  161  cd ..
+  162  cd abby_project
+  163  git diff
+  164  git status
+  165  git add .
+  166  git status
+  167  git add.
+  168  git --help
+  169  git commit -m "update on project"
+  170  git status
+  171  ls
+  172  git log
+  173  ls
+  174  git push abby777.txt
+  175  git push abby_project
+  176  git init
+  177  ls
+  178  cat abby777.txt
+  179  cat README.md
+  180  ls
+  181  git branch
+  182  git push
+  183  ls
+  184  history | tee abby777.txt
