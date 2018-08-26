@@ -1,0 +1,10 @@
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2018-08-26 20:29 UTC
+Nmap scan report for 157.120.196.35.bc.googleusercontent.com (35.196.120.157)
+Host is up (0.00094s latency).
+Not shown: 998 filtered ports
+PORT     STATE  SERVICE
+22/tcp   open   ssh
+3389/tcp closed ms-wbt-server
+
+Nmap done: 1 IP address (1 host up) scanned in 16.37 seconds
