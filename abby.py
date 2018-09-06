@@ -1,3 +1,2 @@
-x = 4
-x = "Sally"
-print(x)
+x = "awesome"
+print("Python is " + x)
