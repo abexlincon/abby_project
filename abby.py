@@ -1,3 +1,3 @@
-print("Enter your name:")
-x = input()
-print("Hello, " + x)
+x = 5
+y = 3
+print(x >= y)
